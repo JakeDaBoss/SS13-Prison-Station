@@ -9,6 +9,7 @@
 	#include "phoenix-1.dmm"
 	#include "phoenix-2.dmm"
 	#include "phoenix-3.dmm"
+	#include "phoenix-4.dmm"
 
 	#define USING_MAP_DATUM /datum/map/phoenix
 

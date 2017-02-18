@@ -28,6 +28,7 @@
 	lift_size_y = 3
 
 	areas_to_use = list(
-		/area/shuttle/turbolift/corrections/tertiary_main,
-		/area/shuttle/turbolift/corrections/tertiary_first
+		/area/shuttle/turbolift/corrections/tertiary_second,
+		/area/shuttle/turbolift/corrections/tertiary_first,
+		/area/shuttle/turbolift/corrections/tertiary_main
 		)

@@ -3,10 +3,10 @@
 	full_name = "Phoenix Station Penitentiary Facility"
 	path = "phoenix"
 
-	station_levels = list(1,2,3)
-	admin_levels = list(4)
-	contact_levels = list(1,2,3)
-	player_levels = list(1,2,3)
+	station_levels = list(1,2,3,4)
+	admin_levels = list(5)
+	contact_levels = list(1,2,3,4)
+	player_levels = list(1,2,3,4)
 
 	shuttle_docked_message = "The scheduled Crew Transfer Shuttle to %Dock_name% has docked with the station. It will depart in approximately %ETD%"
 	shuttle_leaving_dock = "The Crew Transfer Shuttle has left the station. Estimate %ETA% until the shuttle docks at %dock_name%."
